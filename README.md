@@ -21,13 +21,17 @@ To run this project locally, follow the steps below:
 1. Clone the repository:
    ```bash
    git clone (https://github.com/abhigorde15/CalculatorProject)
+
 2.Navigate to the project directory:
   cd CalculatorProject
+
 3.Install the dependencies:
   npm install
+
 4.Start the development server:
   npm start
   This will open the calculator in your browser at http://localhost:3000.
+
 
 #Usage
 Once the app is running, you can:
